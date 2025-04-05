@@ -1,3 +1,5 @@
+## Scenario: Case Study on Loan Defaults in a Bank
+#_
 ### Business Challenges:
 
  - Rising loan defaults affecting profitability.
