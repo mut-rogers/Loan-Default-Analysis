@@ -30,4 +30,4 @@
 
  5. Which loan purposes are most commonly associated with loan defaults? 
 
- 6. Can we build a predictinve mode to identify high-risk loan applicants before disbursements? - Using key variables like Credit Score, Income, and Loan Amount?
+ 6. Can we build a predictinve model to identify high-risk loan applicants before disbursements? - Using key variables like Credit Score, Income, and Loan Amount?
